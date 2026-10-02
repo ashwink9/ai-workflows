@@ -1,2 +1,2 @@
-# ai-workflows
-Tracking AI Workflow Businesses
+# daily-news-dashboard
+Summarizing newsletters from Gmail
